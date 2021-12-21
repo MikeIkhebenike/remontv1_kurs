@@ -1,0 +1,1 @@
+DBCC CHECKIDENT ('Авторизация', RESEED, 0);
